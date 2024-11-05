@@ -1,0 +1,20 @@
+h1 {
+    color: rgb(244, 66, 66);
+}
+
+h2 {
+    color: rgb(196, 102,102);
+}
+
+ul {
+    color: #9a79b2;
+}
+
+ol {
+    color: #732aa8;
+}
+
+a {
+    background-color: rgb(196, 102, 102);
+    color: rgb(255, 255, 255)
+}

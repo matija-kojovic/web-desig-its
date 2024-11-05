@@ -1,0 +1,17 @@
+body {
+    background: gray;
+}
+
+h1, h2 {
+    background: yellow;
+    color: blue;
+}
+
+p {
+    color: white;
+}
+
+p > a {
+    background-color: white;
+    color: black;
+}
